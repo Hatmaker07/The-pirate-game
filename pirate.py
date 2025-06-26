@@ -91,7 +91,7 @@ while temp2 != "q":
         print("Quit?")
         temp2 = input()
 #ascii jolly roger lmao
- _________
-|   (")   |
-| '-.H.-' |
-| .-'^'-. |
+# _________
+#|   (")   |
+#| '-.H.-' |
+#| .-'^'-. |
