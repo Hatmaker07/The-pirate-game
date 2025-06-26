@@ -90,3 +90,8 @@ while temp2 != "q":
         select.remove(temp2)
         print("Quit?")
         temp2 = input()
+#ascii jolly roger lmao
+ _________
+|   (")   |
+| '-.H.-' |
+| .-'^'-. |
