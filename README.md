@@ -1,6 +1,6 @@
 ### The-pirate-game
 # This is made to make random numbers for the pirate game.
-# See more about the pirate game [here](https://www.gothamprimary.co.uk/wp-content/uploads/2023/01/The-Pirate-Game-Rules.pdf).
+# See more about the pirate game [here](https://www.bgpschool.kent.sch.uk/attachments/download.asp?file=1565&type=pdf).
 # To use:
 # When asked to quit, input q if you want to end the program early, and input c if someone landed on a choose next square tile, then put in the tile they selected, and if that is someone else's choose next square tile, input c again.
 # For mode 1, input the number of players that are participating, then at the end of a turn or the start of the game, if noone landed on choose next square, all of them will submit a square that they want to be called, and an equal number of random tiles will be generated, and one will be chosen as the next tile.
